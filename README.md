@@ -10,10 +10,10 @@ The project includes:
 * Plotting training vs. validation accuracy
 
 ## Installation & Setup
-Ensure you have Python (3.7+) installed. Required libraries:
-tensorflow
-numpy
-matplotlib
+Ensure you have Python (3.7+) installed. Required libraries:<br/>
+tensorflow<br/>
+numpy<br/>
+matplotlib<br/>
 
 ### For Linux:
 pip install tensorflow matplotlib numpy
